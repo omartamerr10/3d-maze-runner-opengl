@@ -1,40 +1,47 @@
-========================================================================
-    CONSOLE APPLICATION : OpenGL3DTemplate Project Overview
-========================================================================
+# 🎮 3D Maze Runner — OpenGL
 
-AppWizard has created this OpenGL3DTemplate application for you.
+A 3D maze navigation game built in C++ using OpenGL and GLUT.
+Navigate through a procedurally structured maze with real-time 3D rendering, lighting, and textured surfaces.
 
-This file contains a summary of what you will find in each of the files that
-make up your OpenGL3DTemplate application.
+---
 
+## 🕹 Features
 
-OpenGL3DTemplate.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
+- 3D grid-based maze with wall and path layout
+- Real-time rendering using OpenGL with lighting and materials
+- 3D model loading (.3ds format) for walls and environment objects
+- Texture mapping on ground and surfaces
+- Keyboard and mouse camera controls
+- Dynamic lighting with ambient, diffuse, and specular components
 
-OpenGL3DTemplate.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
+---
 
-OpenGL3DTemplate.cpp
-    This is the main application source file.
+## 🛠 Tech Stack
 
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named OpenGL3DTemplate.pch and a precompiled types file named StdAfx.obj.
+---
 
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
+## ▶️ How to Run
 
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
+1. Clone the repository
+2. Open `OpenGLMeshLoader.sln` in **Visual Studio**
+3. Build and run the project
+4. Use keyboard controls to navigate the maze
 
-/////////////////////////////////////////////////////////////////////////////
+---
+
+## ⌨️ Controls
+
+| Key | Action |
+|-----|--------|
+| `W` | Wireframe mode |
+| `R` | Fill mode |
+| `ESC` | Exit |
+
+---
+
+## 🎓 Course
+
+Computer Graphics — German University in Cairo, Fall 2024
