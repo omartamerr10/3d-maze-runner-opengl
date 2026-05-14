@@ -1,0 +1,14 @@
+﻿  OpenGLMeshLoader.cpp
+C:\Users\hp\Downloads\Sem7\Graphics\Lab 7\Lab 7\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'OpenGLMeshLoader.cpp')
+  
+C:\Users\hp\Downloads\Sem7\Graphics\Lab 7\Lab 7\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'OpenGLMeshLoader.cpp')
+  
+C:\Users\hp\Downloads\Sem7\Graphics\Lab 7\Lab 7\OpenGLMeshLoader.cpp(790,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Downloads\Sem7\Graphics\Lab 7\Lab 7\OpenGLMeshLoader.cpp(900,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Downloads\Sem7\Graphics\Lab 7\Lab 7\OpenGLMeshLoader.cpp(1077,49): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+C:\Users\hp\Downloads\Sem7\Graphics\Lab 7\Lab 7\OpenGLMeshLoader.cpp(1077,79): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+C:\Users\hp\Downloads\Sem7\Graphics\Lab 7\Lab 7\OpenGLMeshLoader.cpp(1077,98): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> C:\Users\hp\Downloads\Sem7\Graphics\Lab 7\Lab 7\Debug\OpenGLMeshLoader19.exe
